@@ -1,0 +1,125 @@
+.background{
+	background: url(../image/photo.png) no-repeat center;
+	background-size: cover;
+	opacity: 0,9;
+	
+}
+
+
+.container{
+	padding-top: 81px;
+	display: flex;
+}
+
+.header{
+	
+	padding-left: 120px;
+	padding-right: 460px;
+	width: 71px;
+	height: 66px;
+	
+}
+	
+.menu {
+	padding-top: 2px;
+	padding-right: 177px;
+	display: inline;
+	width: 409px;
+	height: 15px;
+	float:left
+}
+
+.menu1{
+	padding: 15px;
+}
+
+.Products{
+	
+	width: 63px;
+	height: 13px;
+	color: #ffffff;
+	font-family: "Cabin - Semi Bold";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	/* Text style for "P, roducts" */
+	letter-spacing: 0.32px;
+	}
+
+.Prices {
+	
+	width: 42px;
+	height: 12px;
+	color: #ffffff;
+	font-family: "Cabin - Semi Bold";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 36px;
+	/* Text style for "P, rices" */
+	letter-spacing: 0.32px;
+}
+
+.Aboutus {
+	
+	width: 67px;
+	height: 13px;
+	color: #ffffff;
+	font-family: "Cabin - Semi Bold";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 36px;
+	/* Text style for "A, bout Us" */
+	letter-spacing: 0.32px;
+}
+
+.Contacts {
+	
+	width: 63px;
+	height: 12px;
+	color: #ffffff;
+	font-family: "Cabin - Semi Bold";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 36px;
+	/* Text style for "C, ontacts" */
+	letter-spacing: 0.32px;
+}
+
+h1{
+	width: 849px;
+	height: 76px;
+	color: #ffffff;
+	font-family: "Cabin - Semi Bold";
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 48px;
+	/* Text style for "T, his sou" */
+	letter-spacing: 0.72px;
+	
+}
+
+.Text{
+	display: flex;
+	padding: 293px 211px 0px 120px;
+	
+	
+}
+
+p{
+	width: 818px;
+	height: 19px;
+	color: #ffffff;
+	font-family: "Cabin - Semi Bold";
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 24px;
+	/* Text style for "T, o her s" */
+	letter-spacing: 0.36px
+}
+
+.P{
+	display: flex;
+	padding: 33px 240px 107px 122px;
+
+	
+}
